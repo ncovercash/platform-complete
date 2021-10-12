@@ -1,274 +1,246 @@
 [
   {
-    "id": "folio_acquisition-units-3.0.1000114",
+    "id": "folio_acquisition-units-2.4.1",
     "action": "enable"
   },
   {
-    "id": "folio_agreements-8.1.1000780",
+    "id": "folio_agreements-6.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_bulk-edit-1.0.10009",
+    "id": "folio_calendar-6.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_calendar-7.0.1000128",
+    "id": "folio_checkin-5.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_checkin-6.0.1000408",
+    "id": "folio_checkout-6.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_checkout-7.0.1000575",
+    "id": "folio_circulation-5.1.1",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-6.0.1000762",
+    "id": "folio_circulation-log-1.2.0",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-log-2.0.1000105",
+    "id": "folio_courses-4.2.1",
     "action": "enable"
   },
   {
-    "id": "folio_courses-5.0.1000380",
+    "id": "folio_dashboard-1.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_dashboard-2.1.1000112",
+    "id": "folio_data-export-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_data-export-5.0.1000272",
+    "id": "folio_data-import-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_data-import-5.0.1000929",
+    "id": "folio_developer-5.2.2",
     "action": "enable"
   },
   {
-    "id": "folio_developer-6.0.1000235",
+    "id": "folio_eholdings-6.1.1",
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-7.0.10001046",
+    "id": "folio_erm-comparisons-2.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_erm-comparisons-4.0.1000102",
+    "id": "folio_erm-usage-5.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_erm-usage-6.0.1000336",
+    "id": "folio_export-manager-2.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_export-manager-2.0.100042",
+    "id": "folio_finance-2.4.2",
     "action": "enable"
   },
   {
-    "id": "folio_finance-3.0.1000530",
+    "id": "folio_inventory-es-6.4.0",
     "action": "enable"
   },
   {
-    "id": "folio_handler-stripes-registry-1.0.10006",
+    "id": "folio_inventory-8.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_inn-reach-1.1.100094",
+    "id": "folio_invoice-3.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_inventory-8.0.10001320",
+    "id": "folio_licenses-6.1.1",
     "action": "enable"
   },
   {
-    "id": "folio_invoice-3.0.1000499",
+    "id": "folio_local-kb-admin-4.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_ldp-1.5.100017",
+    "id": "folio_myprofile-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_licenses-8.0.1000428",
+    "id": "folio_notes-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_local-kb-admin-5.0.1000197",
+    "id": "folio_oai-pmh-2.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-1.0.100010",
+    "id": "folio_orders-2.4.1",
     "action": "enable"
   },
   {
-    "id": "folio_myprofile-6.0.1000127",
+    "id": "folio_organizations-2.4.1",
     "action": "enable"
   },
   {
-    "id": "folio_notes-6.0.1000103",
+    "id": "folio_plugin-bursar-export-1.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_oai-pmh-3.0.1000114",
+    "id": "folio_plugin-create-inventory-records-3.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_oa-1.0.100020",
+    "id": "folio_plugin-find-agreement-6.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_orders-3.0.10001119",
+    "id": "folio_plugin-find-contact-2.4.0",
     "action": "enable"
   },
   {
-    "id": "folio_organizations-3.0.1000405",
+    "id": "folio_plugin-find-eresource-2.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-bursar-export-2.0.100051",
+    "id": "folio_plugin-find-erm-usage-data-provider-3.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-create-inventory-records-3.0.100075",
+    "id": "folio_plugin-find-import-profile-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-eusage-reports-2.2.1000174",
+    "id": "folio_plugin-find-instance-6.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-agreement-8.0.1000113",
+    "id": "folio_plugin-find-interface-3.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-contact-3.0.100089",
+    "id": "folio_plugin-find-license-6.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-eresource-4.0.100048",
+    "id": "folio_plugin-find-organization-2.4.1",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-erm-usage-data-provider-4.0.100066",
+    "id": "folio_plugin-find-package-title-3.1.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-import-profile-5.0.100097",
+    "id": "folio_plugin-find-po-line-3.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-instance-6.0.100087",
+    "id": "folio_plugin-find-user-5.0.1",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-interface-3.0.100083",
+    "id": "folio_quick-marc-4.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-license-8.0.1000110",
+    "id": "folio_receiving-1.4.2",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-organization-3.0.100083",
+    "id": "folio_remote-storage-2.0.1",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-package-title-4.0.100059",
+    "id": "folio_requests-5.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-po-line-3.0.1000110",
+    "id": "folio_search-5.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-user-6.0.1000151",
+    "id": "folio_servicepoints-5.0.1",
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-4.0.1000200",
+    "id": "folio_stripes-core-7.2.0",
     "action": "enable"
   },
   {
-    "id": "folio_receiving-2.0.1000288",
+    "id": "folio_stripes-smart-components-6.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_remote-storage-3.0.1000109",
+    "id": "folio_tags-5.0.1",
     "action": "enable"
   },
   {
-    "id": "folio_requests-6.0.1000680",
+    "id": "folio_tenant-settings-6.1.2",
     "action": "enable"
   },
   {
-    "id": "folio_search-5.0.1000228",
+    "id": "folio_users-6.1.4",
     "action": "enable"
   },
   {
-    "id": "folio_servicepoints-6.0.100095",
+    "id": "edge-caiasoft-1.0.0",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-8.0.1000007",
+    "id": "edge-connexion-1.0.2",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-7.0.10000012",
+    "id": "edge-dematic-1.2.2",
     "action": "enable"
   },
   {
-    "id": "folio_tags-6.0.100093",
+    "id": "edge-ncip-1.6.0",
     "action": "enable"
   },
   {
-    "id": "folio_tenant-settings-7.0.1000235",
+    "id": "edge-orders-2.4.0",
     "action": "enable"
   },
   {
-    "id": "folio_users-7.0.10000096",
+    "id": "edge-oai-pmh-2.3.1",
     "action": "enable"
   },
   {
-    "id": "edge-caiasoft-1.2.0-SNAPSHOT.10",
+    "id": "edge-patron-4.5.0",
     "action": "enable"
   },
   {
-    "id": "edge-connexion-1.1.0-SNAPSHOT.17",
+    "id": "edge-rtac-2.2.0",
     "action": "enable"
   },
   {
-    "id": "edge-dematic-1.3.1-SNAPSHOT.34",
-    "action": "enable"
-  },
-  {
-    "id": "edge-inn-reach-1.0.2-SNAPSHOT.14",
-    "action": "enable"
-  },
-  {
-    "id": "edge-ncip-1.7.0-SNAPSHOT.18",
-    "action": "enable"
-  },
-  {
-    "id": "edge-orders-2.5.0-SNAPSHOT.47",
-    "action": "enable"
-  },
-  {
-    "id": "edge-oai-pmh-2.4.1-SNAPSHOT.69",
-    "action": "enable"
-  },
-  {
-    "id": "edge-patron-4.7.0-SNAPSHOT.69",
-    "action": "enable"
-  },
-  {
-    "id": "edge-rtac-2.4.0-SNAPSHOT.71",
-    "action": "enable"
-  },
-  {
-    "id": "edge-sip2-2.2.0-SNAPSHOT.59",
+    "id": "edge-sip2-2.0.1",
     "action": "enable"
   }
 ]
