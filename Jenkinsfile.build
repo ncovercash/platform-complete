@@ -29,7 +29,7 @@ pipeline {
 
   agent {
     node {
-      label 'platform-build'
+      label 'jenkins-agent-java11'
     }
   }
 
@@ -50,7 +50,7 @@ pipeline {
           else {
             env.folio_config = 'snapshot'
             env.ec2_instanceType = 'm5.2xlarge' 
-            env.ec2_group = 'build_snapshot'
+            env.ec2_group = 'build_snapshot_test'
           }
         }
       }
@@ -160,10 +160,10 @@ pipeline {
   }      // end stages
 
   post {
-    failure {
-      slackSend channel: "$env.SLACK_CHANNEL", 
-                message: "Failure: ${env.JOB_NAME} ${env.BUILD_DISPLAY_NAME} (<${env.BUILD_URL}|Open>)"
-    }
+    // failure {
+    // slackSend channel: "$env.SLACK_CHANNEL", 
+    //          message: "Failure: ${env.JOB_NAME} ${env.BUILD_DISPLAY_NAME} (<${env.BUILD_URL}|Open>)"
+    // }
     always {
       sendNotifications currentBuild.result
     }
@@ -175,10 +175,10 @@ pipeline {
         script {
           def instance = sh(returnStdout: true, script: "aws --region us-east-1 --output text ec2 describe-instances --filters 'Name=tag:Group,Values=${env.ec2_group}' 'Name=instance-state-name,Values=running' --query 'Reservations[*].Instances[*].[InstanceId]'")
 
-          if (instance) {
-            echo "Terminating instance: $instance"
-            sh "aws --region us-east-1 --output text ec2 terminate-instances --instance-ids $instance"
-          }
+        //  if (instance) {
+        //    echo "Terminating instance: $instance"
+        //    sh "aws --region us-east-1 --output text ec2 terminate-instances --instance-ids $instance"
+        //  }
         }
       }
     }
