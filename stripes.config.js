@@ -22,6 +22,8 @@ module.exports = {
     '@folio/requests' : {},
     '@folio/servicepoints' : {},
     '@folio/users' : {},
+    '@folio/receiving' : {},
+    '@folio/plugin-create-inventory-records' : {},
     '@folio/tenant-settings': {},
     '@folio/developer' : {},
     '@folio/stripes-erm-components' : {},

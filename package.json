@@ -22,6 +22,8 @@
     "@folio/inventory": "git://github.com/folio-org/ui-inventory.git#vega-rancher-env",
     "@folio/requests": "git://github.com/folio-org/ui-requests.git#vega-rancher-env",
     "@folio/users": "git://github.com/folio-org/ui-users.git#vega-rancher-env",
+    "@folio/receiving": "git://github.com/folio-org/ui-receiving.git#vega-rancher-env",
+    "@folio/plugin-create-inventory-records": "git://github.com/folio-org/ui-plugin-create-inventory-records.git#vega-rancher-env",
     "@folio/servicepoints": ">=1.1.0",
     "@folio/tenant-settings": ">=2.5.1",
     "@folio/plugin-find-user": ">=1.3.0",
