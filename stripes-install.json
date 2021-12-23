@@ -12,6 +12,10 @@
     "action": "enable"
   },
   {
+    "id": "folio_bulk-edit-1.0.100038",
+    "action": "enable"
+  },
+  {
     "id": "folio_checkin-6.0.1",
     "action": "enable"
   },
