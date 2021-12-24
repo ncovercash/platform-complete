@@ -173,6 +173,9 @@
   "id" : "folio_finance-3.0.1000548",
   "action" : "enable"
 }, {
+  "id" : "okapi-4.11.1",
+  "action" : "enable"
+}, {
   "id" : "folio_handler-stripes-registry-1.0.10009",
   "action" : "enable"
 }, {
