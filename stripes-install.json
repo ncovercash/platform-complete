@@ -92,6 +92,10 @@
     "action": "enable"
   },
   {
+    "id": "folio_marc-authorities-1.0.100034",
+    "action": "enable"
+  },
+  {
     "id": "folio_local-kb-admin-5.0.0",
     "action": "enable"
   },
