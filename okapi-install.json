@@ -180,10 +180,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-oa-1.0.0-SNAPSHOT.62",
-    "action": "enable"
-  },
-  {
     "id": "mod-eusage-reports-1.1.0-SNAPSHOT.148",
     "action": "enable"
   },
