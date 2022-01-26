@@ -116,10 +116,6 @@
     "action": "enable"
   },
   {
-    "id": "folio_oa-1.0.100072",
-    "action": "enable"
-  },
-  {
     "id": "folio_orders-3.0.30001183",
     "action": "enable"
   },
