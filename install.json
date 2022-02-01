@@ -380,6 +380,9 @@
   "id" : "edge-sip2-2.2.0-SNAPSHOT.68",
   "action" : "enable"
 }, {
+  "id" : "okapi-4.11.1",
+  "action" : "enable"
+}, {
   "id" : "mod-codex-inventory-2.2.0-SNAPSHOT.92",
   "action" : "enable"
 }, {
