@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-connexion-1.0.5",
+    "id": "edge-connexion-1.0.6",
     "action": "enable"
   },
   {
@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-inn-reach-1.0.3",
+    "id": "edge-inn-reach-1.0.5",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-2.1.2",
+    "id": "edge-sip2-2.1.4",
     "action": "enable"
   },
   {
@@ -80,11 +80,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-codex-ekb-1.9.1",
+    "id": "mod-codex-ekb-1.9.2",
     "action": "enable"
   },
   {
-    "id": "mod-eusage-reports-1.0.4",
+    "id": "mod-eusage-reports-1.0.5",
     "action": "enable"
   },
   {
@@ -92,7 +92,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-user-import-3.6.4",
+    "id": "mod-user-import-3.6.6",
     "action": "enable"
   },
   {
@@ -108,15 +108,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-1.2.1",
+    "id": "mod-data-export-spring-1.2.4",
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.2.2",
+    "id": "mod-data-export-worker-1.2.5",
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-8.0.3",
+    "id": "mod-finance-storage-8.0.5",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-configuration-5.7.5",
+    "id": "mod-configuration-5.7.9",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-permissions-5.14.4",
+    "id": "mod-permissions-5.14.5",
     "action": "enable"
   },
   {
@@ -156,7 +156,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-18.0.7",
+    "id": "mod-inventory-18.0.8",
     "action": "enable"
   },
   {
@@ -196,7 +196,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-blocks-1.4.1",
+    "id": "mod-patron-blocks-1.4.2",
     "action": "enable"
   },
   {
@@ -204,19 +204,19 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-22.1.4",
+    "id": "mod-circulation-22.1.6",
     "action": "enable"
   },
   {
-    "id": "mod-tags-1.0.2",
+    "id": "mod-tags-1.0.4",
     "action": "enable"
   },
   {
-    "id": "mod-orders-12.2.5",
+    "id": "mod-orders-12.2.6",
     "action": "enable"
   },
   {
-    "id": "mod-agreements-5.0.6",
+    "id": "mod-agreements-5.0.7",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-courses-1.4.3",
+    "id": "mod-courses-1.4.7",
     "action": "enable"
   },
   {
@@ -236,7 +236,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.2.8",
+    "id": "mod-source-record-manager-3.2.11",
     "action": "enable"
   },
   {
@@ -256,11 +256,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-5.2.5",
+    "id": "mod-invoice-5.2.6",
     "action": "enable"
   },
   {
-    "id": "mod-inn-reach-1.0.2",
+    "id": "mod-inn-reach-1.0.3",
     "action": "enable"
   },
   {
@@ -272,11 +272,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-ldp-1.0.1",
+    "id": "mod-ldp-1.0.8",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.2.4",
+    "id": "mod-quick-marc-2.2.5",
     "action": "enable"
   },
   {
@@ -288,11 +288,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-codex-mux-2.11.1",
+    "id": "mod-codex-mux-2.11.2",
     "action": "enable"
   },
   {
-    "id": "mod-password-validator-2.2.3",
+    "id": "mod-password-validator-2.2.5",
     "action": "enable"
   },
   {
@@ -300,11 +300,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-login-saml-2.4.1",
+    "id": "mod-login-saml-2.4.9",
     "action": "enable"
   },
   {
-    "id": "mod-codex-ekb-1.9.1",
+    "id": "mod-codex-ekb-1.9.2",
     "action": "enable"
   }
 ]
